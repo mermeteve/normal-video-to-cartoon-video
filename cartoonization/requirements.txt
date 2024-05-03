@@ -1,5 +1,5 @@
 #tensorflow==2.8.0
-tensorflow-gpu==1.15
+tensorflow-gpu==2.8.0
 opencv-python==4.1.2.30
 tqdm==4.41.1
 ffmpeg-python==0.2.0
