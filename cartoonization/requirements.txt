@@ -1,4 +1,4 @@
-#tensorflow==1.13.2
+#tensorflow==2.8.0
 tensorflow-gpu==1.15
 opencv-python==4.1.2.30
 tqdm==4.41.1
